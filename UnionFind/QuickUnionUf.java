@@ -11,15 +11,30 @@ public class QuickUnionUf implements UF {
     }
 
     public void union(int p, int q) {
+        int rootP = find(p);
+        int rootQ = find(q);
 
+        if(rootP == rootQ)  return;
+
+        id[rootP] = rootQ;
+        count--;
     }
 
+    // public int find(int q) {
+    //     if(id[q] == q) return q;
+    //     return find(id[q]);
+    // }
+
     public int find(int q) {
-        return 1;
+
+        while(id[q] != q) {
+            q = id[q];
+        }
+        return q;
     }
 
     public boolean connected(int p, int q) {
-        return false;
+        return find(q) == find(p);
     }
 
     public int count() {

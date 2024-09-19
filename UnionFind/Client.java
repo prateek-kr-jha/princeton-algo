@@ -3,7 +3,7 @@ import edu.princeton.cs.algs4.StdIn;
 public class Client {
     public static void main(String[] args) {
         int N = StdIn.readInt();
-        QuickFind uf = new QuickFind(N);
+        QuickUnionUf uf = new QuickUnionUf(N);
 
         while(!StdIn.isEmpty()) {
             int p = StdIn.readInt();
