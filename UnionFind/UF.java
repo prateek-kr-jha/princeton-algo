@@ -1,6 +1,6 @@
 public interface UF {
     void union(int p, int q);
     int find(int p);
-    boolean cnnected(int p, int q);
+    boolean connected(int p, int q);
     int count();
 }
