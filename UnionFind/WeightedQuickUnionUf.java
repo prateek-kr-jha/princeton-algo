@@ -1,5 +1,5 @@
 public class WeightedQuickUnionUf implements UF {
-    private int[] id;
+    public int[] id;
     private int count;
     private int[] sz;
     public WeightedQuickUnionUf(int N) {
