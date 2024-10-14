@@ -1,5 +1,7 @@
-[ ] Harmonic
+- [ x ] Harmonic
+
 [ ] Coupon collector
+
 [ ] Self avoiding walk
 [ ] matrix addition
 [ ] matrix multiplication
@@ -9,8 +11,5 @@
 [ ] Transpose
 [ ] Inverse matrix
 [ ] Hadamard matrix
-[ ]
-[ ]
-[ ]
-[ ]
-[ ]
+
+## hello
