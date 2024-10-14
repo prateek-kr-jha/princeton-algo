@@ -1,6 +1,6 @@
 - [ x ] Harmonic
 
-[ ] Coupon collector
+- [ x ] Coupon collector
 
 [ ] Self avoiding walk
 [ ] matrix addition
