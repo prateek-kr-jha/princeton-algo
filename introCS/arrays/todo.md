@@ -1,8 +1,8 @@
-- [ x ] Harmonic
+- [ ] Harmonic
 
-- [ x ] Coupon collector
-
-[ ] Self avoiding walk
+<!-- - [ x ] Coupon collector
+- [ x ] 
+[ ]Self avoiding walk
 [ ] matrix addition
 [ ] matrix multiplication
 [ ] Deal
@@ -10,6 +10,6 @@
 [ ] Discrete distribution
 [ ] Transpose
 [ ] Inverse matrix
-[ ] Hadamard matrix
+[ ] Hadamard matrix -->
 
 ## hello
