@@ -3,12 +3,12 @@
 
 - [ x ]Self avoiding walk
 - [ x ] matrix addition
-[ ] matrix multiplication
+- [ x ] matrix multiplication
 [ ] Deal
 [ ] How many
 [ ] Discrete distribution
 [ ] Transpose
 [ ] Inverse matrix
 [ ] Hadamard matrix 
-
-## hello
+- [ ] Array reversal
+- [ ] Transpose of matrix
